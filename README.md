@@ -25,7 +25,7 @@ Using Python, Pandas functions and methods, and SQLAlchemy, we filter the date c
 
 -There are 1,700 counts for the month of June and 1,517 counts for the month of December.The mean temperature for both of the months are within 70° F.June month is slightly warmer with 75° F than the month of december which is rounded to 71° F.
 
-![]()  ![]()
+![]()  ![](https://github.com/akthersr/surfs_up/blob/main/december%20temps.png)
 
 -From the above table, we can determine that maximum temperature for December is 83° F and for June is 85° F.Although the max temperature are within the same range,but min temperature for December can go as low as 56° F.The minimum temperature for month June is 64° F.
 
