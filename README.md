@@ -35,6 +35,6 @@ Using Python, Pandas functions and methods, and SQLAlchemy, we filter the date c
 
 Both months June and December has relatively favourable temperature for surfing conditions and a steady demand of ice cream.In order to find out the sustanablity for the surf n' shake shop business,we made two additional tables with precipation and temperature from the measurment table.
 
-![]() ![]()
+![](https://github.com/akthersr/surfs_up/blob/main/june.png) ![](https://github.com/akthersr/surfs_up/blob/main/december.png)
 
 From the above table,we can see that in the month of June the mean pricipation  is .13. And, the mean precipation is higher for December than compare to the month of June.According to the table we can conclude that December have less warmer days compare to June and the chance of rain is higher than june.With additional queries we found that December have 20 warm days and june month have 26 warm days.So, the average lowest temperature for this months seems to be 71 degrees which is still a good temperature for ice cream and surfing.At the end,we can conclude that Oahu island,Hawaii weather is sustainable to run a surf n' shake business.
